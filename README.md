@@ -1,4 +1,4 @@
-# Hi there, I'm Vivek Chary 👋
+# Hi there, I'm G.Vivek Chary 👋
 
 **Aspiring Computer Science Engineer | Python, Java, AI/ML Enthusiast | Data Science | Web Technologies**
 
