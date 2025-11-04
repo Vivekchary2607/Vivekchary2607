@@ -4,6 +4,8 @@
 
 [![LinkedIn: Vivek Chary](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekchary-guduru-1231b8354/)](https://www.linkedin.com/in/vivekchary-guduru-1231b8354/)
 
+🌐 Portfolio → [guduru-vivekchary-portfolio.netlify.app](https://guduru-vivekchary-portfolio.netlify.app)
+
 ---
 
 ## 👨‍💻 Introduction
